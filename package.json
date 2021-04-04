@@ -1,0 +1,20 @@
+{
+  "name": "100-days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "n": " mkdir proj && cd proj"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOEMN96/100-Days-of-Vanilla-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JOEMN96/100-Days-of-Vanilla-JS/issues"
+  },
+  "homepage": "https://github.com/JOEMN96/100-Days-of-Vanilla-JS#readme"
+}
